@@ -60,5 +60,5 @@ This solution can be offered as an API service for:
 
 - Frontend Developer (NAHVINDREN)
 - Backend Developer (HARESH)
-- ML Engineer (NANCY)
-- Business & Presentation Lead (KAVIPRIYA)
+- ML Engineer (NANCY & KAVI PRIYA)
+- Business & Presentation Lead (NANCY & KAVI PRIYA)
